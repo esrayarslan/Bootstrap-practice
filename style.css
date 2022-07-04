@@ -1,0 +1,13 @@
+* {
+    list-style-type: none;
+    transition: 500ms all;
+  }
+  body {
+    background-color: #E9ECEF;
+  }
+  /* .jumbotron {
+    text-align: center;
+  } */
+  .card{
+    margin:10px auto;
+  }
